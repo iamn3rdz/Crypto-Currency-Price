@@ -12,7 +12,7 @@ To use in google sheets:
 3. Paste ccprice code and save
 4. In your sheet, type in =ccprice(cryptocurrency, currency)  
    example:   
-   =ccprice("ethereum", "USD")  
+   =ccprice("ethereum","USD")  
 
    
 The currency parameter accepts the following currencies:  
